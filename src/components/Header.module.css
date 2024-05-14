@@ -1,0 +1,24 @@
+.header {
+    margin: 2vh auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 60%;
+    padding: 10px 15px;
+    border-radius: 15px;
+    background-color: aquamarine;
+}
+
+.header__title {
+    font-size: 28px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    width: 30%;
+}
+
+.navlink{
+    cursor: pointer;
+}
